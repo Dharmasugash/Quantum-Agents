@@ -1,0 +1,7 @@
+pandas
+numpy
+pdfplumber
+sqlalchemy
+streamlit
+openpyxl
+lxml
